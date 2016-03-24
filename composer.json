@@ -1,0 +1,13 @@
+{
+    "name": "user/comp",
+    "authors": [
+        {
+            "name": "Nimrod Maina",
+            "email": "nimzy.maina@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.18",
+        "vlucas/phpdotenv": "^2.2"
+    }
+}
