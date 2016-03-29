@@ -11,5 +11,5 @@ $dotenv->load();
 
 $faker = Faker\Factory::create();
 
-echo $faker->name;
+echo $faker->email;
 
