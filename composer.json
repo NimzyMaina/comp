@@ -8,6 +8,7 @@
     ],
     "require": {
         "monolog/monolog": "^1.18",
-        "vlucas/phpdotenv": "^2.2"
+        "vlucas/phpdotenv": "^2.2",
+        "fzaninotto/faker": "^1.5"
     }
 }
